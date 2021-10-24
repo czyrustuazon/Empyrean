@@ -1,9 +1,9 @@
 # Ignore constants file
-#includes/constants.php
+includes/constants.php
 
 # Ignore Image folder
-#img
+img
 
 # htaccess
-#public_html/api/.htaccess
-#public_html/api/image/.htaccess
+public_html/api/.htaccess
+public_html/api/image/.htaccess
